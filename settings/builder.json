@@ -1,0 +1,25 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.brickbreakermaster",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "2ef97242-9501-4637-ab4d-d2e235f1f114",
+  "title": "BrickBreaker",
+  "webOrientation": "auto"
+}
